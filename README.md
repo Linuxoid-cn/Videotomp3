@@ -3,8 +3,6 @@
 [![License](https://img.shields.io/badge/License-GPL%20v3-red.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Platform](https://img.shields.io/badge/Platform-Android-green.svg)](https://developer.android.com)
 
-**一款由 哔哩哔哩UP主：[我已被封](https://space.bilibili.com/3537120750733918) 开发的轻量级安卓原生工具。**
-
 ---
 
 ## 📖 项目简介
@@ -39,13 +37,6 @@
 > 3. 转载或引用请务必保留作者署名信息。
 
 ---
-
-## 👨‍💻 关于作者
-* **B站 ID**：我已被封
-* **UID**：3537120750733918
-* **主页**：[点击访问我的哔哩哔哩空间](https://space.bilibili.com/3537120750733918)
-
-如果你觉得这个工具好用，欢迎在 B 站给我一个**三连支持**！
 
 ---
 
